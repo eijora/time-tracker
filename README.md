@@ -4,7 +4,7 @@
 
 Simple-Time-Tracker is a simple command line tool based on the "track-your-damn-time" tool made by latentflip. 
 
-When ever you open up your terminal, it will ask you what you did the past days. It starts 3 days ago, ignores weekends, and will only ask you what you did _today_ after 4pm.
+When you open up your terminal, it will ask you what you did the past days. It starts 3 days ago, ignores weekends, and will only ask you what you did _today_ after 4pm.
 
 It stores the information in simple text files, and lets you see the full list using the `time-tracker log` feature.
 
@@ -24,7 +24,7 @@ The first time it will ask you for a path to store the files in.
 
 ## Logging
 
-To easily output your time tracking log, run:
+To output your time tracking log, run:
 
 ```
 simple-time-tracker log
