@@ -24,7 +24,7 @@ The first time it will ask you for a path to store the files in.
 
 ## Logging
 
-To easily output your time tracking log, run:
+To output your time tracking log, run:
 
 ```
 simple-time-tracker log
