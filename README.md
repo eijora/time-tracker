@@ -1,8 +1,8 @@
-# Simple Command Line Time Tracker
+# Simple Commandline Time Tracker
 
-## What?
+## What is it?
 
-Every time I open my terminal, if there is missing time in my time tracking, track-your-damn-time asks me what I did:
+Every time I open my terminal, if there is missing time in my time tracking, time-tracker asks me what I did:
 
 ![](https://i.cloudup.com/gyb_fTR0Ep-3000x3000.png)
 
