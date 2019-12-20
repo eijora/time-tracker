@@ -38,7 +38,7 @@ function getTimesFromPrompt(date, done) {
     var day = humanizeDate(date);
     var answers = [];
 
-    rl.question("What the heck did you do " + day + "? (hours - task) ", function (answer) {
+    rl.question("What did you do " + day + "? (hours - task) ", function (answer) {
         if (answer.trim() === '') {
             done("None entered");
         } else {
