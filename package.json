@@ -1,6 +1,6 @@
 {
-  "name": "track-your-damn-time",
-  "version": "1.0.1",
+  "name": "time-tracker",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "dependencies": {
@@ -15,5 +15,5 @@
   },
   "author": "",
   "license": "ISC",
-  "bin": "track-your-damn-time.js"
+  "bin": "time-tracker.js"
 }
