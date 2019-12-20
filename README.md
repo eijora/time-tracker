@@ -1,10 +1,8 @@
-# Simple Commandline Time Tracker
+# Simple Command Line Time Tracker
 
 ## What is it?
 
-Every time I open my terminal, if there is missing time in my time tracking, time-tracker asks me what I did:
-
-![](https://i.cloudup.com/gyb_fTR0Ep-3000x3000.png)
+Time-Tracker is a simple command lime tool which asks what you did the past days. 
 
 It starts 3 days ago, ignores weekends, and will only ask you what you did _today_ after 4pm.
 
