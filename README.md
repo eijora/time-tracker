@@ -6,7 +6,7 @@ Time-Tracker is a simple command line tool which asks what you did the past days
 
 It starts 3 days ago, ignores weekends, and will only ask you what you did _today_ after 4pm.
 
-It stores the information in simple text files, and I can see the full list with `time-tracker log`.
+It stores the information in simple text files, and lets you see the full list using the `time-tracker log` feature.
 
 ## Installation
 
