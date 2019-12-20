@@ -2,7 +2,7 @@
 
 ## What is it?
 
-Time-Tracker is a simple command line tool based on the "track-your-damn-time" tool made by latentflip. 
+Simple-Time-Tracker is a simple command line tool based on the "track-your-damn-time" tool made by latentflip. 
 
 When ever you open up your terminal, it will ask you what you did the past days. It starts 3 days ago, ignores weekends, and will only ask you what you did _today_ after 4pm.
 
@@ -11,13 +11,13 @@ It stores the information in simple text files, and lets you see the full list u
 ## Installation
 
 ```
-npm install -g time-tracker
+npm install -g simple-time-tracker
 ```
 
 Then add this to your .bashrc/.zshrc
 
 ```
-time-tracker
+simple-time-tracker
 ```
 
 The first time it will ask you for a path to store the files in.
@@ -27,7 +27,7 @@ The first time it will ask you for a path to store the files in.
 To easily output your time tracking log, run:
 
 ```
-time-tracker log
+simple-time-tracker log
 ```
 
 ## License

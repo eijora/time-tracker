@@ -1,6 +1,6 @@
 {
-  "name": "time-tracker",
-  "version": "1.0.0",
+  "name": "simple-time-tracker",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "dependencies": {
@@ -15,5 +15,5 @@
   },
   "author": "",
   "license": "ISC",
-  "bin": "time-tracker.js"
+  "bin": "simple-time-tracker.js"
 }
