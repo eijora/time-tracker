@@ -1,4 +1,4 @@
-# Simple Command Line Time Tracker
+# Simple Time Tracker
 
 ## What is it?
 
