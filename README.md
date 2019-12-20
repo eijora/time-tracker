@@ -2,7 +2,7 @@
 
 ## What is it?
 
-Time-Tracker is a simple command lime tool which asks what you did the past days. 
+Time-Tracker is a simple command lime tool which asks what you did the past days when you open your terminal. 
 
 It starts 3 days ago, ignores weekends, and will only ask you what you did _today_ after 4pm.
 
